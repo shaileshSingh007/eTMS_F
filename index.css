@@ -168,12 +168,18 @@ body{
   flex-direction:column;
   padding:8px;
   box-sizing:border-box;
-  font-size:2vh;
+  
   font-weight:600;
 }
 
+#topBox>div{
+    margin-top:0.5vh;
+    font-size:2vh;
+    }
+
 #dualArrow{
   font-weight:bold;
+  font-size:5vh !important;
 }
 
 #bottomP{
